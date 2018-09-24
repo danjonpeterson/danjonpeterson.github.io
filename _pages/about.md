@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dan Jon Peterson - science guy"
+title: "Dan Jon Peterson - Science Guy"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,16 +12,16 @@ I'm a research scientist working at the Integrated Brain Imaging Center (IBIC) a
 
 Current Projects
 ======
-*White Matter in Alzheimer's and Typical Aging
-*Atypical Dementias (FTD, PSP, CBD)
-*Diffusion Methodology
-*Temporal Lobe Epilepsy
-*Automated Segmentation of Spinal Cord DTI
-*3D Printing of Brains From MRI Scan
+*White Matter in Alzheimer's and Typical Aging  
+*Atypical Dementias (FTD, PSP, CBD)  
+*Diffusion Methodology  
+*Temporal Lobe Epilepsy  
+*Automated Segmentation of Spinal Cord DTI  
+*3D Printing of Brains From MRI Scan  
 
 Past Projects
 ======
-*Diffusion Imaging in Autism
-*Diffusion Imaging in ADHD: Differences between boys and girls
-*White Matter Connectivity in Dyslexia
-*Experiment Development for Solution-State NMR
+*Diffusion Imaging in Autism  
+*Diffusion Imaging in ADHD: Differences between boys and girls  
+*White Matter Connectivity in Dyslexia  
+*Experiment Development for Solution-State NMR  
