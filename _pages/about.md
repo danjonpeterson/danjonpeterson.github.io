@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist working at the Integrated Brain Imaging Center (IBIC) at the University of Washington. I made this website in order for folks to be able to find me more easily, and to have something of a public record of the things I've worked on.
+I'm a research scientist working at the Integrated Brain Imaging Center (IBIC) at the University of Washington. I do neuroimaging - mostly diffusion imaging.
 
 Current Projects
 ======
-* White Matter in Alzheimer's and Typical Aging  
-* Atypical Dementias (FTD, PSP, CBD)  
-* Diffusion Methodology  
-* Temporal Lobe Epilepsy  
-* Automated Segmentation of Spinal Cord DTI  
-* 3D Printing of Brains From MRI Scan  
+* White matter degnereration in Alzheimer's disease  
+* Atypical dementias (FTD, PSP, CBD)  
+* Diffusion methodology - improving image processing  
+* Temporal lobe Epilepsy  
+* Automated segmentation of spinal cord diffusion images  
+* 3D printing of brains from an MRI scan  
 
 Past Projects
 ======
-* Diffusion Imaging in Autism  
-* Diffusion Imaging in ADHD: Differences between boys and girls  
-* White Matter Connectivity in Dyslexia  
-* Experiment Development for Solution-State NMR  
+* Diffusion imaging in Autism  
+* Diffusion imaging in ADHD: Differences between boys and girls  
+* White matter connectivity in dyslexia  
+* Experiment development for solution-state NMR  

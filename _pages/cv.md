@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV available [here](https://danjonpeterson.github.io/files/DJP_CV.pdf)
+CV available [**here**](https://danjonpeterson.github.io/files/DJP_CV.pdf)
