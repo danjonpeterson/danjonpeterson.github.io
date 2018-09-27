@@ -15,7 +15,7 @@ Current Projects
 * White matter degnereration in Alzheimer's disease  
 * Atypical dementias (FTD, PSP, CBD)  
 * Diffusion methodology - improving image processing  
-* Temporal lobe Epilepsy  
+* Temporal lobe epilepsy  
 * Automated segmentation of spinal cord diffusion images  
 * 3D printing of brains from an MRI scan  
 
