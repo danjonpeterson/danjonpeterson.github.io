@@ -17,6 +17,7 @@ The original Paper:
 
 The two associated replies:  
 [**Muhlert, N., & Ridgway, G. R. (2016). Failed replications, contributing factors and careful interpretations: Commentary on “A purely confirmatory replication study of structural brain-behaviour correlations” by Boekel et al., 2015. Cortex; a journal devoted to the study of the nervous system and behavior, 74, 338.**](https://www.ncbi.nlm.nih.gov/pubmed/25843619)  
+  
 [**Kanai, R. (2016). Open questions in conducting confirmatory replication studies: Commentary on Boekel et al., 2015. Cortex; a journal devoted to the study of the nervous system and behavior, 74, 343-347.**](https://www.ncbi.nlm.nih.gov/pubmed/25868596)  
 
 The rejoinder:  
