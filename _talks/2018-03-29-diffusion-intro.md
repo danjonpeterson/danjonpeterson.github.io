@@ -3,7 +3,7 @@ title: "Intro to Diffusion Imaging"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-03-29-diffusion-intro
-venue: "University of Washington, IBIC lab meeting"
+venue: "University of Washington, Diffusion Imaging Interest Group"
 date: 2018-03-29
 location: "Seattle, Washington"
 ---
