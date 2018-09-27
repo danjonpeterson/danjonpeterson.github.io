@@ -10,10 +10,9 @@ tags:
 
 *This blog post was written as part of the UW Neuroinformatics Working Group, and originally appeared [**here**](https://uwescience.github.io/neuroinformatics/2018/02/26/artifact-rejection-code-review.html)* 
 
-
 On Monday, February 26 we met to hear from David Caldwell to review the code for a method of removing large artifacts from electrophysiology data in humans.
 
-For a bit of background, the Ojemann/Rao labs are interested in intracranial
+For a bit of background, the [**Ojemann**](https://depts.washington.edu/gridlab1/) and [**Rao**](https://homes.cs.washington.edu/~rao/) labs are interested in intracranial
 electrode arrays implanted in humans for both recording and stimulation.
 Recording during and immediately after stimulation presents a challenge, as an
 injected signal in one electrode causes large artifacts in the other electrodes
@@ -25,7 +24,7 @@ There are a couple of approaches to these kinds of artifacts:
 2)  Interpolate through the affected time window, or
 3)  Attempt to subtract out the artifact to reveal the underlying signal.
 
-3 is the approach attempted here. The difficulty in this approach is in
+3) is the approach attempted here. The difficulty in this approach is in
 deciding exactly what signal to subtract. To this end, David used a variation
 of a Dictionary Learning approach, where we use a bank of a known artifact
 signals, and select from among those the template that provides the best
@@ -37,12 +36,12 @@ way. In preparation for an upcoming publication, and to make this method more
 widely available, David created a GitHub repository with code to perform the
 dictionary-learning based artifact removal method:
 
-https://github.com/davidjuliancaldwell/artifactRejection
+[**https://github.com/davidjuliancaldwell/artifactRejection**](https://github.com/davidjuliancaldwell/artifactRejection)
 
 Most of the discussion revolved around sharing general tips for a project like
 this. Some issues discussed were:
 
-- If you post your research software on GitHub, make sure that you chose a license. If you do not, technically it is under copyright. In that vein, if you include any code from other projects, make sure to check the licenses of those projects - there may be restrictions. This is a great resource for choosing a license for your scientific software: https://choosealicense.com/
+- If you post your research software on GitHub, make sure that you chose a license. If you do not, technically it is under copyright. In that vein, if you include any code from other projects, make sure to check the licenses of those projects - there may be restrictions. [**https://choosealicense.com/**](https://choosealicense.com/) is a great resource for choosing a license for your scientific software
 
 - If you distribute code and example data, try to indicate what the correct or successful output looks like (console output, figures, output files, etc). Ideally, there would be a “test” script that checks the output automatically.
 
@@ -52,9 +51,8 @@ In addition to these issues, there was also a discussion about what to do with
 large example data files. For the purposes of this meeting David had shared a
 google drive link, but that is suboptimal for a variety of reasons. A better
 solution would be to host it on ResearchWorks, which is service available to UW
-Researchers that provides persistent hosting for research data:
-(https://www.lib.washington.edu/dataservices). Another solution may be to use
-DataLad (http://datalad.org/) which is made for this purpose, and has a
+Researchers that provides [**persistent hosting for research data**](https://www.lib.washington.edu/dataservices). Another solution may be to use
+[**DataLad**](http://datalad.org/) which is made for this purpose, and has a
 git-like versioned data repository.
 
 If you are going to post example data along with your code, try to make sure
@@ -67,7 +65,7 @@ can increase the user base, if there is enough time and effort available to
 develop a GUI.
 
 Finally, many attendees had some general tips for cleaning up a codebase:
-
+------
 - Use built-in argument parsers, or argument parsing libraries, rather than long ‘switch’ statements.
 
 - Be consistent about CamelCase versus names_with_underscores. An exception may be to have different naming conventions for different things, like variables versus functions.
@@ -78,7 +76,7 @@ Finally, many attendees had some general tips for cleaning up a codebase:
 
 - With functions that have many arguments, consider passing a struct of options, and/or support using config files to pass options.
 
-- Readme.md files in GitHub can be spruced up with advanced formatting, section headings, images, links, etc. This site is particularly helpful for writing Readme.md files (http://markdownlivepreview.com/).
+- Readme.md files in GitHub can be spruced up with advanced formatting, section headings, images, links, etc. [**This site**](http://markdownlivepreview.com/) is particularly helpful for writing Readme.md files.
 
 Some of these suggestions have already been implemented. Overall, the most
 important thing to consider is your goals. Publicly available research code can
@@ -87,12 +85,3 @@ way, or to make the method available to potential users. These two things
 support each other, but are subtly different. For researchers with limited
 time, they may chose to emphasize one aspect over another.
 
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
