@@ -17,7 +17,7 @@ Current Projects
 * Diffusion methodology - improving image processing  
 * Temporal lobe epilepsy  
 * Automated segmentation of spinal cord diffusion images  
-* 3D printing of brains from an MRI scan  
+* 3D printing of model brains from an MRI scan  
 
 Past Projects
 ======
