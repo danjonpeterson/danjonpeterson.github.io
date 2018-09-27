@@ -6,10 +6,8 @@ author_profile: true
 ---
 
 You can find peer-reviewed journal articles my articles on [**my Google Scholar profile here**](https://scholar.google.com/citations?user=2PHG-uEAAAAJ&hl=en)  
------
   
 Conference proceedings and posters not indexed by Google are listed and **linked** below:  
-------
 
 [**Domoto-Reilly K, Peterson D, Dutt S, Heuer H, Luong P, Tartaglia C, Litvan I, McGinnis S, Dickerson B, Kornak J, Schuff N, Rabinovici G, Miller B, Fagan A, Kantarci K, Pantelyat A, Foroud T, Boeve B, Rosen H, Boxer A (April 2018) MRI-Derived Markers of Disease Progression in Early Versus Late PSP and CBS. Annual meeting of the American Academy of Neurology in Los Angeles, California**](https://danjonpeterson.github.io/files/AAN_2018_FINAL.pdf)
 
