@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research scientist working at the Integrated Brain Imaging Center (IBIC) at the University of Washington. I do neuroimaging - mostly diffusion imaging.
+I'm a [research scientist](http://ibic.washington.edu/profiles/peterson) working at the [Integrated Brain Imaging Center (IBIC)](http://ibic.washington.edu) at the University of Washington. I do neuroimaging - mostly diffusion imaging.
 
 Current Projects
 ======
