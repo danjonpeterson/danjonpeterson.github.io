@@ -21,9 +21,9 @@ Conference proceedings and posters not indexed by Google are listed and **linked
 Rutman AM, Peterson D, Cohen W, Mossa-Basha M. (December 2015) Diffusion Tensor Imaging of the Spinal Cord. An Educational exhibit presented at the 101st Scientific Assembly and Annual Meeting of the Radiological Society of North America in Chicago, Illinois.  
 →This exhibit received the Cum Laude award
   
-Peterson D, Jacobson L, Crocetti D, Rosch K, Mostofsky S. (June 2014) Premotor white matter integrity is associated with response control in boys, but not girls with ADHD. Annual meeting of the Organization for Human Brain Mapping (OHBM) in Hamburg, Germany.
+[**Peterson D, Jacobson L, Crocetti D, Rosch K, Mostofsky S. (June 2014) Premotor white matter integrity is associated with response control in boys, but not girls with ADHD. Annual meeting of the Organization for Human Brain Mapping (OHBM) in Hamburg, Germany.**](https://danjonpeterson.github.io/files/OHBM_rt_variability_FINAL.pdf)
   
-Peterson D, Caffo B, Mostofsky S. (June 2013) Anomalous Anatomical Connectivity Networks in Children with Autism Spectrum Disorder. Annual meeting of the Organization for Human Brain Mapping (OHBM) in Hamburg, Germany. 
+[**Peterson D, Caffo B, Mostofsky S. (June 2013) Anomalous Anatomical Connectivity Networks in Children with Autism Spectrum Disorder. Annual meeting of the Organization for Human Brain Mapping (OHBM) in Hamburg, Germany.**](https://danjonpeterson.github.io/files/OHBM_asd_graph_FINAL.pdf)
   
 Mahone EM, Peterson D, Crocetti D, Slifer K, Denckla MB, Mostofsky SH. (June 2013) Abnormal White Matter Diffusivity in Preschool-Age Children with ADHD. 4th World Congress on ADHD in Milan, Italy.
   
