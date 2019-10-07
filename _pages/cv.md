@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV available [**here**](https://danjonpeterson.github.io/files/DJP_CV.pdf)
+Resume available [**here**](https://danjonpeterson.github.io/files/Daniel_Peterson_Resume.pdf)
+
+Publications list available [**here**](https://danjonpeterson.github.io/files/publications_list.pdf)
