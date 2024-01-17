@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Engineer, formerly with [Octave Bioscience](https://www.octavebio.com/) and [IBIC](http://ibic.washington.edu) the University of Washington.
+I'm a Data Engineer, formerly with [Octave Bioscience](https://www.octavebio.com/) and the [University of Washington](http://ibic.washington.edu).
 
-Projects
+Some projects I've worked on:
 ======
 * Developing a pipeline for analysis of MS lesions and atrophy
 * Making it easy for folks to get a 3D print of their brain from an MRI scan
