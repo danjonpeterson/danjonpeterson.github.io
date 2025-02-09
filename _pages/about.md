@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Software Engineer at the [National Azheimer's Coordinating Center(NACC)](naccdata.org), formerly with [Octave Bioscience](https://www.octavebio.com/) and the [University of Washington](http://ibic.washington.edu).
+I'm a Software Engineer at the [National Azheimer's Coordinating Center(NACC)](http://naccdata.org), formerly with [Octave Bioscience](https://www.octavebio.com/) and the [University of Washington](http://ibic.washington.edu).
 
 Some projects I've worked on:
 ======
