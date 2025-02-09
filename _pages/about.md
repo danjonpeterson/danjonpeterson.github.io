@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Engineer, formerly with [Octave Bioscience](https://www.octavebio.com/) and the [University of Washington](http://ibic.washington.edu).
+I'm a Software Engineer at the [National Azheimer's Coordinating Center(NACC)](naccdata.org), formerly with [Octave Bioscience](https://www.octavebio.com/) and the [University of Washington](http://ibic.washington.edu).
 
 Some projects I've worked on:
 ======
+* Developing a Data Platform for imaging components of the national ADRC program
 * Developing a pipeline for analysis of MS lesions and atrophy
 * Making it easy for folks to get a 3D print of their brain from an MRI scan
 * Monitoring degnereration in Alzheimer's disease  
